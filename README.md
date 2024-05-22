@@ -5,11 +5,11 @@
   <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue" alt="Pronouns: He/Him">
 </p>
 
-<p align="center">👀 Passionate about technology, programming, and AI.</p>
-<p align="center">🌱 Currently honing skills in frontend development with HTML, CSS, React, JavaScript, and Tailwind.</p>
-<p align="center">🎯 Short-term goal: Delve deep into frontend tech driven by curiosity and passion.</p>
-<p align="center">💞️ Enthusiastic about contributing to open-source AI projects.</p>
-<p align="center">📫 Contact me at: raibikraminfo@gmail.com</p>
+<p">👀 Passionate about technology, programming, and AI.</p>
+<p>🌱 Currently honing skills in frontend development with HTML, CSS, React and JavaScript</p>
+<p>🎯 Short-term goal: Delve deep into frontend tech driven by curiosity and passion.</p>
+<p>💞️ Enthusiastic about contributing to open-source AI projects.</p>
+<p>📫 Contact me at: raibikraminfo@gmail.com</p>
 
 <!-- Social media links -->
 <p align="center">
