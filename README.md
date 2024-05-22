@@ -16,8 +16,8 @@
   <a href="https://www.linkedin.com/in/raibikraminfo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/RaiBkram" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
+  <a href="https://x.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/X.com_logo.svg/1024px-X.com_logo.svg.png" alt="X" width="40" height="40">
   </a>
 </p>
 
@@ -33,4 +33,3 @@
 
 <!-- Optional: Fun fact -->
 <!-- - ⚡ Fun fact: I can solve a Rubik's Cube in under two minutes! -->
-
