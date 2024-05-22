@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue" alt="Pronouns: He/Him">
   </p>
 
-  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <div style="margin: 10px;">
       <p>- 👀 Passionate about technology, programming, and AI.</p>
       <p>- 🌱 Currently honing skills in frontend development with HTML, CSS, React and JavaScript.</p>
