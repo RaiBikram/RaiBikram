@@ -1,41 +1,35 @@
-<div style="text-align: center;">
-  <h1>Hi there! 👋 I'm Bikram Rai (@RaiBikram)</h1>
-  <h3>Aspiring Frontend Developer | Future Full-Stack and AI Enthusiast</h3>
+# Hi there! 👋 I'm Bikram Rai (@RaiBkram)
 
-  <p>
-    <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blue" alt="Pronouns: He/Him">
-  </p>
+## About Me:
 
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-    <div style="margin: 10px;">
-      <p>- 👀 Passionate about technology, programming, and AI.</p>
-      <p>- 🌱 Currently honing skills in frontend development with HTML, CSS, React and JavaScript.</p>
-    </div>
-    <div style="margin: 10px;">
-      <p>- 🎯 Short-term goal: Delve deep into frontend tech driven by curiosity and passion.</p>
-      <p>- 💞️ Enthusiastic about contributing to open-source AI projects.</p>
-      <p>- 📫 Contact me at: raibikraminfo@gmail.com</p>
-    </div>
-  </div>
+I'm Bikram Rai, a frontend development enthusiast focused on JavaScript, React, HTML, CSS, and Tailwind CSS.
 
-  <!-- Social media links -->
-  <!--
-  <p>
-    <a href="https://www.linkedin.com/in/raibikraminfo" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://x.com/RaiBkram" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-  </p>
--->
-  <!-- GitHub stats -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=RaiBikram&show_icons=true&theme=radical" alt="Bikram's GitHub stats">
-  </p>
+## Skills:
 
-  <!-- Top languages -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiBikram&layout=compact&theme=radical" alt="Top Languages">
-  </p>
-</div>
+- JavaScript
+- React
+- HTML
+- CSS
+- Tailwind CSS
+
+## Let's Collaborate:
+
+Open to collaborations and contributions. Feel free to reach out!
+
+## Additional Info:
+
+- Email: raibikraminfo@gmail.com
+- LinkedIn: [raibikraminfo](https://www.linkedin.com/in/raibikraminfo/)
+- Twitter: [@RaiBkram](https://twitter.com/RaiBkram)
+
+## GitHub Stats:
+
+![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiBikram&show_icons=true&theme=radical)
+
+## Most Used Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiBikram&layout=compact&theme=radical)
+
+## Thanks for Visiting!
+
+Feel free to explore my profile. Looking forward to connecting with you!
