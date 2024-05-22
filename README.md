@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Bikram Rai (@RaiBkram)
 
-## Aspiring Frontend Developer | Future Full-Stack and AI Enthusiast
-
 ## About Me:
 
 I'm Bikram Rai, an aspiring Frontend Developer with a vision to become a Full-Stack Developer and AI Enthusiast in the future. My journey is fueled by a deep passion for technology and a relentless drive for learning and growth.
