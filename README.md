@@ -11,22 +11,22 @@
 - 💞️ I’m looking to collaborate on **open-source AI projects.**
 - 📫 How to reach me: **raibikraminfo@gmail.com**
 
-<!-- Optional: Social media links -->
+<!-- Social media links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/raibikraminfo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://twitter.com/RaiBkram" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)">
   </a>
 </p>
 
-<!-- Optional: GitHub stats -->
+<!-- GitHub stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaiBikram&show_icons=true&theme=radical" alt="Bikram's GitHub stats">
 </p>
 
-<!-- Optional: Top languages -->
+<!-- Top languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiBikram&layout=compact&theme=radical" alt="Top Languages">
 </p>
