@@ -1,4 +1,4 @@
-# Bikram Rai's GitHub Profile
+# Hi there! 👋 I'm Bikram Rai (@RaiBkram)
 
 ## About Me:
 
