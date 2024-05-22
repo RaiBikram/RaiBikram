@@ -16,7 +16,7 @@ I'm Bikram Rai, an aspiring Frontend Developer with a vision to become a Full-St
 
 - Email: raibikraminfo@gmail.com
 - LinkedIn: [raibikraminfo](https://www.linkedin.com/in/raibikraminfo/)
-- Twitter: [@RaiBkram](https://twitter.com/RaiBkram)
+- X: [@RaiBkram](https://x.com/RaiBkram)
 
 ## Let's Collaborate:
 
