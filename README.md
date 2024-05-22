@@ -12,6 +12,13 @@ I'm Bikram Rai, an aspiring Frontend Developer with a vision to become a Full-St
 - CSS
 - Tailwind CSS
 
+## Additional Info:
+
+- Email: raibikraminfo@gmail.com
+- LinkedIn: [raibikraminfo](https://www.linkedin.com/in/raibikraminfo/)
+- Twitter: [@RaiBkram](https://twitter.com/RaiBkram)
+
+
 ## GitHub Stats:
 
 ![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiBikram&show_icons=true&theme=radical)
@@ -19,12 +26,6 @@ I'm Bikram Rai, an aspiring Frontend Developer with a vision to become a Full-St
 ## Most Used Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiBikram&layout=compact&theme=radical)
-
-## Additional Info:
-
-- Email: raibikraminfo@gmail.com
-- LinkedIn: [raibikraminfo](https://www.linkedin.com/in/raibikraminfo/)
-- Twitter: [@RaiBkram](https://twitter.com/RaiBkram)
 
 ## Let's Collaborate:
 
