@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">👀 Passionate about technology, programming, and AI.</p>
-<p align="center">🌱 Currently mastering frontend development with HTML, CSS, React, JavaScript, and Tailwind.</p>
-<p align="center">🎯 Short-term goal: Dive deep into frontend tech driven by curiosity and passion.</p>
+<p align="center">🌱 Currently honing skills in frontend development with HTML, CSS, React, JavaScript, and Tailwind.</p>
+<p align="center">🎯 Short-term goal: Delve deep into frontend tech driven by curiosity and passion.</p>
 <p align="center">💞️ Enthusiastic about contributing to open-source AI projects.</p>
 <p align="center">📫 Contact me at: raibikraminfo@gmail.com</p>
 
@@ -30,4 +30,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiBikram&layout=compact&theme=radical" alt="Top Languages">
 </p>
-
