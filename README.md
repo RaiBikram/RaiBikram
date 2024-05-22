@@ -1,8 +1,8 @@
-# Hi there! 👋 I'm Bikram Rai (@RaiBkram)
+# Bikram Rai's GitHub Profile
 
 ## About Me:
 
-I'm Bikram Rai, a frontend development enthusiast focused on JavaScript, React, HTML, CSS, and Tailwind CSS.
+I'm Bikram Rai, an aspiring Frontend Developer with a vision to become a Full-Stack Developer and AI Enthusiast in the future. My journey is fueled by a deep passion for technology and a relentless drive for learning and growth.
 
 ## Skills:
 
@@ -12,16 +12,6 @@ I'm Bikram Rai, a frontend development enthusiast focused on JavaScript, React, 
 - CSS
 - Tailwind CSS
 
-## Let's Collaborate:
-
-Open to collaborations and contributions. Feel free to reach out!
-
-## Additional Info:
-
-- Email: raibikraminfo@gmail.com
-- LinkedIn: [raibikraminfo](https://www.linkedin.com/in/raibikraminfo/)
-- Twitter: [@RaiBkram](https://twitter.com/RaiBkram)
-
 ## GitHub Stats:
 
 ![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiBikram&show_icons=true&theme=radical)
@@ -29,6 +19,16 @@ Open to collaborations and contributions. Feel free to reach out!
 ## Most Used Languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiBikram&layout=compact&theme=radical)
+
+## Additional Info:
+
+- Email: raibikraminfo@gmail.com
+- LinkedIn: [raibikraminfo](https://www.linkedin.com/in/raibikraminfo/)
+- Twitter: [@RaiBkram](https://twitter.com/RaiBkram)
+
+## Let's Collaborate:
+
+Open to collaborations and contributions. Feel free to reach out!
 
 ## Thanks for Visiting!
 
