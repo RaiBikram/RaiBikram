@@ -18,6 +18,9 @@ I'm Bikram Rai, an aspiring Frontend Developer with a vision to become a Full-St
 - LinkedIn: [raibikraminfo](https://www.linkedin.com/in/raibikraminfo/)
 - Twitter: [@RaiBkram](https://twitter.com/RaiBkram)
 
+## Let's Collaborate:
+
+Open to collaborations and contributions. Feel free to reach out!
 
 ## GitHub Stats:
 
@@ -27,9 +30,6 @@ I'm Bikram Rai, an aspiring Frontend Developer with a vision to become a Full-St
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiBikram&layout=compact&theme=radical)
 
-## Let's Collaborate:
-
-Open to collaborations and contributions. Feel free to reach out!
 
 ## Thanks for Visiting!
 
