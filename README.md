@@ -22,7 +22,6 @@ I'm Bikram Rai, an aspiring Frontend Developer with a vision to become a Full-St
 
 Open to collaborations and contributions. Feel free to reach out!
 
-<!--
 ## GitHub Stats:
 
 ![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiBikram&show_icons=true&theme=radical)
@@ -31,7 +30,7 @@ Open to collaborations and contributions. Feel free to reach out!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiBikram&layout=compact&theme=radical)
 
--->
+
 ## Thanks for Visiting!
 
 Feel free to explore my profile. Looking forward to connecting with you!
