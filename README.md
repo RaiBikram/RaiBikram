@@ -20,7 +20,7 @@ Open to collaborations and contributions. Feel free to reach out!
 
 - Email: raibikraminfo@gmail.com
 - LinkedIn: [raibikraminfo](https://www.linkedin.com/in/raibikraminfo/)
-- X: [@RaiBkram](https://x.com/RaiBkram)
+- X: [@theknuth](https://x.com/theknuth)
 ## GitHub Stats:
 
 ![Bikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiBikram&show_icons=true&theme=radical)
