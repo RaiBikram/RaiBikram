@@ -10,6 +10,7 @@ I'm an aspiring **MERN Stack Developer** | **Software Engineer**  passionate abo
 - **Node.js**
 - **React**
 - **MongoDB**
+- **PostgreSQL**
 - **Next.js**
 - **TypeScript**
 - **HTML & CSS** (Tailwind, Bootstrap)
