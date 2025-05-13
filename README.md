@@ -1,4 +1,4 @@
-# Bikram Rai
+# About Me
 
 Full-stack developer working with React, Next.js, Node.js, and TypeScript.  
 Interested in DevOps, DSA, and solving real-world problems with code.
