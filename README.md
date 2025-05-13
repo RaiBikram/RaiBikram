@@ -10,7 +10,7 @@ Interested in DevOps, DSA, and solving real-world problems with code.
 <img src="https://github-readme-stats.vercel.app/api?username=raibikram&show_icons=true&theme=dracula&hide_border=true" height="150"/>
 
 <!-- GitHub Streak Stats (use latest domain) -->
-<img src="https://streak-stats.demolab.com?user=raibikram&theme=dracula&hide_border=true" height="150"/>
+
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=raibikram&" alt="raibikram" />
 </p>
 
