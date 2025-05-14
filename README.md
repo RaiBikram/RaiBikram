@@ -1,6 +1,6 @@
 # About Me
 
-  Full-stack developer working with React, Next.js, Node.js, and TypeScript.  
+  Full-stack developer working with React, Next.js, Node.js,Mongodb, Postgres, and TypeScript.  
 Interested in DevOps, DSA, and solving real-world problems with code.
 
 <p >
